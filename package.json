@@ -1,0 +1,28 @@
+{
+  "name": "bs-mobile",
+  "version": "1.0.0",
+  "description": "An example news-aggregator template demonstrating Bootstrap's mobile first capabilities.",
+  "main": "index.ejs",
+  "dependencies": {
+    "harp": "^0.20.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rljusticio/bootstrap-mobile-first.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "mobile-first",
+    "news"
+  ],
+  "author": "Justin Walters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rljusticio/bootstrap-mobile-first/issues"
+  },
+  "homepage": "https://github.com/rljusticio/bootstrap-mobile-first#readme"
+}
